@@ -9009,6 +9009,15 @@ h1, h2, h3, h4, h5,
   .project:hover .text, .project:focus .text {
     opacity: 1; }
 
+    .Certificate {
+  width: 100%;
+  height: 1000px;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 0; }
+
+   }
+
 .aside-stretch {
   background: #718dff; }
   .aside-stretch:after {
